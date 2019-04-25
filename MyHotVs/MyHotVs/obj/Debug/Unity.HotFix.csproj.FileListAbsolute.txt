@@ -1,0 +1,6 @@
+E:\MyHotProject\MyHotUnity\Assets\StreamingAssets\Unity.HotFix.dll
+E:\MyHotProject\MyHotUnity\Assets\StreamingAssets\Unity.HotFix.pdb
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\Unity.HotFix.csproj.CoreCompileInputs.cache
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\Unity.HotFix.csproj.CopyComplete
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\Unity.HotFix.dll
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\Unity.HotFix.pdb

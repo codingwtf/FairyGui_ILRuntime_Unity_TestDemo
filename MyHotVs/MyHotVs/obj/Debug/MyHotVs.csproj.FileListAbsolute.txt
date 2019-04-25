@@ -1,0 +1,7 @@
+E:\MyHotProject\MyHotUnity\Assets\StreamingAssets\MyHotVs.dll
+E:\MyHotProject\MyHotUnity\Assets\StreamingAssets\MyHotVs.pdb
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\MyHotVs.csprojAssemblyReference.cache
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\MyHotVs.csproj.CoreCompileInputs.cache
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\MyHotVs.csproj.CopyComplete
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\MyHotVs.dll
+E:\MyHotProject\MyHotVs\MyHotVs\obj\Debug\MyHotVs.pdb
